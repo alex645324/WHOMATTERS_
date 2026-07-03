@@ -1,8 +1,8 @@
 # whomatters
 
-**Everyone builds apps to grow big. I'm building one to stay small — on purpose.**
+**Everyone builds apps to get big. I'm building one to stay small — on purpose.**
 
-whomatters is the digital version of you and your closest person going out to lunch: just your table, your conversation, no one else invited and no one else watching.
+whomatters is like going to lunch with your best friend. Just your table, just your talk. Nobody else invited. Nobody else watching.
 
 📱 **Live on the App Store:** https://apps.apple.com/us/app/id6758853646
 
@@ -15,53 +15,57 @@ whomatters is the digital version of you and your closest person going out to lu
 
 ---
 
-## The thing nobody wants to say out loud
+## The simple thing nobody says
 
-Belonging doesn't scale. You can't feel close to a million people. You can't feel close to a hundred. The feed made everyone reachable and somehow everyone lonelier — you're connected to thousands and seen by none of them.
+You can't feel close to a million people. You can't even feel close to a hundred.
 
-That's not a bug in the apps. That's what happens when you optimize a relationship for size. It stops being a relationship.
+The feed made everyone easy to reach and everyone more alone. You have thousands of followers and none of them really see you. That's not a glitch. That's just what happens when you take something small and warm and try to make it huge.
 
-## Why every "connection" app fails at connection
+Make a relationship big enough and it stops being a relationship.
 
-It's structural, not accidental. To get big, a platform has to build **one room that everybody stands in** — one feed, one audience, one stage. And the second a space has an audience, it stops being intimate, because now you're performing. You're not talking to your person, you're talking to everyone, so you post the highlight, the good angle, the version that plays well.
+## Why the "connection" apps don't connect
 
-The platform *needs* you to do this. Its growth depends on you reaching more people, so it rewards you for treating your life like content and your friends like a crowd. The bigger it scales, the more it has to turn closeness into performance — because performance fills a big room and intimacy empties it.
+To get big, an app has to put everyone in one room. One feed. One crowd. One stage.
 
-**You cannot grow a room big enough to feel small in.**
+And the moment a room has a crowd in it, you start performing. You're not talking to your friend anymore — you're talking to everyone. So you post the good photo, the good angle, the best version of your day.
 
-## New paint, same face
+The app *wants* this. It grows when you reach more people, so it pays you to treat your life like a show and your friends like an audience. The bigger it gets, the more it turns closeness into a performance.
 
-Everyone knows the feed is broken, so a wave of apps showed up promising to fix it. BeReal: unfiltered, one photo a day. VSCO: no like counts. Thousands more every month — "authentic," "close friends only," "no vanity metrics."
+You can't build a room big enough to feel cozy in.
 
-New makeup, same face underneath. They kept the exact foundation — one shared space, an audience watching, a feed you post *to* — and just changed the styling. BeReal still points you at a crowd; it just told you to be ugly for them once a day. That's still a performance, just a performance of authenticity, which is somehow worse.
+## New paint, same house
 
-When the fix is a new feature or a new word for "authentic," it's makeup. Repaint that house a thousand times and it's still the house that makes you lonely.
+Everyone knows the feed is broken now. So a hundred apps showed up saying they'd fix it. BeReal: one real photo a day. VSCO: no likes to count. All of them said "authentic," "real," "close friends only."
 
-## The bet: scale belonging horizontally, not vertically
+New paint. Same house.
 
-whomatters doesn't repaint the room. It doesn't grow the room. **It makes more rooms.**
+They kept the one thing that's actually broken — a crowd watching — and just changed the color. BeReal still points you at a crowd; it just tells you to look ugly for them once a day. That's still a show. It's a show *about* being real, which is kind of worse.
 
-- **A world is 2 or 3 people.** That's the cap. Non-negotiable.
-- **No algorithm, no feed, no followers, no numbers going up, no strangers, no audience.**
-- Just you and the person who matters, in a tiny private space that's only yours — the boring pictures from your day, and a chat. That's the whole thing.
+You can repaint that house a thousand times. It's still the house that makes you lonely.
 
-The reason platforms can't scale belonging is they tried to scale it *vertically* — one space, grown bigger and bigger. Belonging scales **horizontally**. You don't grow the space, you multiply it. Keep every space tiny, permanently, and make a million of them instead of one giant one.
+## The idea: don't grow the room. Make more rooms.
 
-That's why it isn't makeup. Others changed the paint and kept the foundation. I kept the paint boring and changed the foundation — I ripped the audience out of the room entirely. There's no one to perform for because there's no one else in the world but your person.
+So whomatters doesn't grow the room. It makes tiny ones and makes a lot of them.
 
-Instagram at 10 people and Instagram at a billion are completely different animals; scale mutated it. whomatters at 10 and whomatters at 100 million is the *exact same experience*, because the atom never grew. A hundred million tiny private worlds that never touch, instead of one giant one everybody drowns in.
+- **A "world" is 2 or 3 people.** That's the limit. It never changes.
+- **No feed. No followers. No likes. No numbers. No strangers. No crowd.**
+- Just you and the person who matters. You share the boring photos from your day, and you have a chat. That's it.
 
-## One rule for everything in it
+Here's the whole trick. Everyone tried to grow closeness by making one space **bigger**. But closeness only works when it's small. So the only honest way to grow it is to keep each space small forever and just **make more of them.** One world, then another, then a million — and every single one is still 2 or 3 people who love each other.
 
-> Does this serve the actual person, or does it serve the app's numbers?
+Instagram with 10 people and Instagram with a billion are two different animals. Size changed it. whomatters with 10 people and whomatters with 100 million is the exact same thing, because the small part never grows. A hundred million tiny worlds that never touch — instead of one giant one everybody drowns in.
 
-A wire for the people who matter, never a hook for the app. No notification designed to pull you back. No streak to guilt you. No reason to open it except that someone you love is in there.
+## One rule for everything in the app
+
+> Does this help your person, or does it help the app's numbers?
+
+If it's a hook to pull you back, it's out. No pushy notifications. No streaks to make you feel bad. The only reason to open it is that someone you love is in there.
 
 ## Where it's at
 
-Even as a plain web app — no notifications, no reminders, built-in friction — **10 early users kept coming back for 90+ days.** No growth tricks. Just something people wanted.
+Even as a plain web app — no notifications, no reminders, a little friction on purpose — **10 early users kept coming back for 90+ days.** No tricks. They just wanted it.
 
-A small group uses it right now, and they don't "kind of like it" — they love it. That's the only thing I care about, because it's the thing you can't fake and can't buy. I'd rather have ten people who'd be genuinely wrecked if it disappeared than ten thousand who forget it exists. The ten who love it tell their person. That's how it grows: one couple telling another, unprompted, because it meant something.
+A small group uses it right now, and they don't "kind of like it." They love it. That's the only thing I care about, because you can't fake it and you can't buy it. I'd rather have ten people who'd be sad if it disappeared than ten thousand who forget it exists. The ten who love it tell their person. That's how it grows — one pair telling another, because it meant something.
 
 ---
 
