@@ -4,7 +4,7 @@
 
 whomatters is like going to lunch with your best friend. Just your table, just your talk. Nobody else invited. Nobody else watching.
 
-📱 **Live on the App Store:** https://apps.apple.com/us/app/id6758853646
+📱 **Live on the App Store:** https://apps.apple.com/us/app/whomatters/id6758853646
 
 <p float="left">
   <img src="home.png" width="23%" />
