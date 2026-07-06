@@ -13,7 +13,6 @@ whomatters is like going to lunch with your best friend. Just your table, just y
   <img src="chat.png" width="23%" />
 </p>
 
----
 
 ## The simple thing nobody says
 
